@@ -18,7 +18,7 @@
   "author": "Megumi Kimura <kimuramegumi@gmai.com>",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.33.0",
+    "eslint": "^8.47.0",
     "husky": "^8.0.3",
     "jsdoc": "^4.0.2",
     "lint-staged": "^13.1.0",
